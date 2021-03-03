@@ -1,0 +1,61 @@
+
+import java.util.Scanner;
+
+public class Test1{
+	
+	public static void main(String[] args) {
+		
+		
+		
+		Scanner reader = new Scanner(System.in);//键盘输入
+		double sum=0;
+		double x =reader.nextDouble();
+		
+		while(x!=0) {
+			sum=sum+x;
+			x=reader.nextDouble();
+			System.out.println("sum="+sum);
+		
+		
+		}
+		
+		
+		
+		
+		
+		
+
+		
+	
+		
+		
+		
+		
+		
+	}
+	
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	
+
+
